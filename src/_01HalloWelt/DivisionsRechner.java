@@ -19,7 +19,7 @@ public class DivisionsRechner {
         System.out.println("Ergebnis:" + ergebnis);
         }
 
-        ;
+        
 
 
         if (Eingabe == 2 ) {
